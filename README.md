@@ -1,8 +1,10 @@
 # ex2-template
 A started template for JS project
 
-<h1>Ola Ibrahim<br>Abigail Untershatz</h1>
-<p>Email: olaib@edu.hac.ac.il<br>Abigail Untershatz</p>
+Url: https://bootstrap-page-internet-programming22.netlify.app
+
+<h1>Ola Ibrahim</h1>
+<p>Email: olaib@edu.hac.ac.il</p>
 
 <h1>Execution</h1>
 <p>
